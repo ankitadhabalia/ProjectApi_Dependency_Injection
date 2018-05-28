@@ -1,0 +1,100 @@
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\Service\bin\Debug\Service.dll
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\Service\bin\Debug\Service.pdb
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\Service\obj\Debug\Service.dll
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\Service\obj\Debug\Service.pdb
+c:\Users\ankitadhabalia\Documents\Visual Studio 2017\Projects\ProjectApi\Service\bin\Debug\Service.dll.config
+c:\Users\ankitadhabalia\Documents\Visual Studio 2017\Projects\ProjectApi\Service\bin\Debug\EntityFramework.dll
+c:\Users\ankitadhabalia\Documents\Visual Studio 2017\Projects\ProjectApi\Service\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\ankitadhabalia\Documents\Visual Studio 2017\Projects\ProjectApi\Service\bin\Debug\EntityFramework.xml
+c:\Users\ankitadhabalia\Documents\Visual Studio 2017\Projects\ProjectApi\Service\bin\Debug\EntityFramework.SqlServer.xml
+c:\Users\ankitadhabalia\Documents\Visual Studio 2017\Projects\ProjectApi\Service\bin\Debug\Entity.dll
+c:\Users\ankitadhabalia\Documents\Visual Studio 2017\Projects\ProjectApi\Service\bin\Debug\Repository.dll
+c:\Users\ankitadhabalia\Documents\Visual Studio 2017\Projects\ProjectApi\Service\bin\Debug\Entity.pdb
+c:\Users\ankitadhabalia\Documents\Visual Studio 2017\Projects\ProjectApi\Service\bin\Debug\Entity.dll.config
+c:\Users\ankitadhabalia\Documents\Visual Studio 2017\Projects\ProjectApi\Service\bin\Debug\Repository.pdb
+c:\Users\ankitadhabalia\Documents\Visual Studio 2017\Projects\ProjectApi\Service\bin\Debug\Repository.dll.config
+c:\Users\ankitadhabalia\Documents\Visual Studio 2017\Projects\ProjectApi\Service\bin\Debug\Autofac.dll
+c:\Users\ankitadhabalia\Documents\Visual Studio 2017\Projects\ProjectApi\Service\bin\Debug\Autofac.Integration.Mvc.dll
+c:\Users\ankitadhabalia\Documents\Visual Studio 2017\Projects\ProjectApi\Service\bin\Debug\Autofac.Integration.WebApi.dll
+c:\Users\ankitadhabalia\Documents\Visual Studio 2017\Projects\ProjectApi\Service\bin\Debug\Microsoft.Web.Infrastructure.dll
+c:\Users\ankitadhabalia\Documents\Visual Studio 2017\Projects\ProjectApi\Service\bin\Debug\Newtonsoft.Json.dll
+c:\Users\ankitadhabalia\Documents\Visual Studio 2017\Projects\ProjectApi\Service\bin\Debug\NLog.dll
+c:\Users\ankitadhabalia\Documents\Visual Studio 2017\Projects\ProjectApi\Service\bin\Debug\Purplelight.Framework.Autofac.Integration.WebApi.dll
+c:\Users\ankitadhabalia\Documents\Visual Studio 2017\Projects\ProjectApi\Service\bin\Debug\System.Linq.Dynamic.dll
+c:\Users\ankitadhabalia\Documents\Visual Studio 2017\Projects\ProjectApi\Service\bin\Debug\System.Net.Http.Formatting.dll
+c:\Users\ankitadhabalia\Documents\Visual Studio 2017\Projects\ProjectApi\Service\bin\Debug\System.Web.Helpers.dll
+c:\Users\ankitadhabalia\Documents\Visual Studio 2017\Projects\ProjectApi\Service\bin\Debug\System.Web.Http.dll
+c:\Users\ankitadhabalia\Documents\Visual Studio 2017\Projects\ProjectApi\Service\bin\Debug\System.Web.Mvc.dll
+c:\Users\ankitadhabalia\Documents\Visual Studio 2017\Projects\ProjectApi\Service\bin\Debug\System.Web.Razor.dll
+c:\Users\ankitadhabalia\Documents\Visual Studio 2017\Projects\ProjectApi\Service\bin\Debug\System.Web.WebPages.Deployment.dll
+c:\Users\ankitadhabalia\Documents\Visual Studio 2017\Projects\ProjectApi\Service\bin\Debug\System.Web.WebPages.dll
+c:\Users\ankitadhabalia\Documents\Visual Studio 2017\Projects\ProjectApi\Service\bin\Debug\System.Web.WebPages.Razor.dll
+c:\Users\ankitadhabalia\Documents\Visual Studio 2017\Projects\ProjectApi\Service\bin\Debug\Autofac.xml
+c:\Users\ankitadhabalia\Documents\Visual Studio 2017\Projects\ProjectApi\Service\bin\Debug\Autofac.Integration.Mvc.xml
+c:\Users\ankitadhabalia\Documents\Visual Studio 2017\Projects\ProjectApi\Service\bin\Debug\Autofac.Integration.WebApi.xml
+c:\Users\ankitadhabalia\Documents\Visual Studio 2017\Projects\ProjectApi\Service\bin\Debug\Newtonsoft.Json.xml
+c:\Users\ankitadhabalia\Documents\Visual Studio 2017\Projects\ProjectApi\Service\bin\Debug\NLog.xml
+c:\Users\ankitadhabalia\Documents\Visual Studio 2017\Projects\ProjectApi\Service\bin\Debug\System.Net.Http.Formatting.xml
+c:\Users\ankitadhabalia\Documents\Visual Studio 2017\Projects\ProjectApi\Service\bin\Debug\System.Web.Helpers.xml
+c:\Users\ankitadhabalia\Documents\Visual Studio 2017\Projects\ProjectApi\Service\bin\Debug\System.Web.Http.xml
+c:\Users\ankitadhabalia\Documents\Visual Studio 2017\Projects\ProjectApi\Service\bin\Debug\System.Web.Mvc.xml
+c:\Users\ankitadhabalia\Documents\Visual Studio 2017\Projects\ProjectApi\Service\bin\Debug\System.Web.Razor.xml
+c:\Users\ankitadhabalia\Documents\Visual Studio 2017\Projects\ProjectApi\Service\bin\Debug\System.Web.WebPages.xml
+c:\Users\ankitadhabalia\Documents\Visual Studio 2017\Projects\ProjectApi\Service\bin\Debug\System.Web.WebPages.Deployment.xml
+c:\Users\ankitadhabalia\Documents\Visual Studio 2017\Projects\ProjectApi\Service\bin\Debug\System.Web.WebPages.Razor.xml
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\Service\bin\Debug\Service.dll.config
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\Service\bin\Debug\Service.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\Service\bin\Debug\Service.pdb
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\Service\bin\Debug\Autofac.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\Service\bin\Debug\Autofac.Integration.Mvc.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\Service\bin\Debug\Autofac.Integration.WebApi.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\Service\bin\Debug\Entity.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\Service\bin\Debug\EntityFramework.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\Service\bin\Debug\EntityFramework.SqlServer.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\Service\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\Service\bin\Debug\Newtonsoft.Json.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\Service\bin\Debug\NLog.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\Service\bin\Debug\Purplelight.Framework.Autofac.Integration.WebApi.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\Service\bin\Debug\Repository.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\Service\bin\Debug\System.Linq.Dynamic.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\Service\bin\Debug\System.Net.Http.Formatting.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\Service\bin\Debug\System.Web.Cors.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\Service\bin\Debug\System.Web.Helpers.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\Service\bin\Debug\System.Web.Http.Cors.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\Service\bin\Debug\System.Web.Http.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\Service\bin\Debug\System.Web.Mvc.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\Service\bin\Debug\System.Web.Razor.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\Service\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\Service\bin\Debug\System.Web.WebPages.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\Service\bin\Debug\System.Web.WebPages.Razor.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\Service\bin\Debug\Entity.pdb
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\Service\bin\Debug\Entity.dll.config
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\Service\bin\Debug\Repository.pdb
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\Service\bin\Debug\Repository.dll.config
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\Service\bin\Debug\Autofac.xml
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\Service\bin\Debug\Autofac.Integration.Mvc.xml
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\Service\bin\Debug\Autofac.Integration.WebApi.xml
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\Service\bin\Debug\EntityFramework.xml
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\Service\bin\Debug\EntityFramework.SqlServer.xml
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\Service\bin\Debug\Newtonsoft.Json.xml
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\Service\bin\Debug\NLog.xml
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\Service\bin\Debug\System.Net.Http.Formatting.xml
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\Service\bin\Debug\System.Web.Helpers.xml
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\Service\bin\Debug\System.Web.Http.xml
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\Service\bin\Debug\System.Web.Http.Cors.xml
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\Service\bin\Debug\System.Web.Mvc.xml
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\Service\bin\Debug\System.Web.Razor.xml
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\Service\bin\Debug\System.Web.WebPages.xml
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\Service\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\Service\bin\Debug\System.Web.WebPages.Razor.xml
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\Service\obj\Debug\Service.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\Service\obj\Debug\Service.pdb
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\Service\bin\Debug\Microsoft.Owin.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\Service\bin\Debug\Microsoft.Owin.Hosting.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\Service\bin\Debug\Microsoft.Owin.Testing.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\Service\bin\Debug\Owin.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\Service\bin\Debug\Microsoft.Owin.xml
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\Service\bin\Debug\Microsoft.Owin.Hosting.xml
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\Service\bin\Debug\Microsoft.Owin.Testing.xml

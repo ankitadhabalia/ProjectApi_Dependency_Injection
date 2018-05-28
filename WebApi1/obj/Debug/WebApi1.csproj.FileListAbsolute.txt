@@ -1,0 +1,251 @@
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\ApplicationInsights.config
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\roslyn\csc.exe
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\roslyn\csc.exe.config
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\roslyn\csc.rsp
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\roslyn\csi.exe
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\roslyn\csi.rsp
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\roslyn\System.AppContext.dll
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\roslyn\System.Collections.Immutable.dll
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\roslyn\System.IO.FileSystem.dll
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\roslyn\vbc.exe
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\roslyn\vbc.exe.config
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\roslyn\vbc.rsp
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\roslyn\VBCSCompiler.exe
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\roslyn\VBCSCompiler.exe.config
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\WebApi1.dll.config
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\WebApi1.dll
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\WebApi1.pdb
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\Antlr3.Runtime.dll
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\EntityFramework.dll
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\EntityFramework.SqlServer.dll
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\Microsoft.AI.Web.dll
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\Microsoft.AI.WindowsServer.dll
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\Microsoft.ApplicationInsights.dll
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\Microsoft.Owin.dll
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\Microsoft.Owin.Security.dll
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\Microsoft.Owin.Security.Google.dll
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\Microsoft.Web.Infrastructure.dll
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\Newtonsoft.Json.dll
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\Owin.dll
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\Repository.dll
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\Service.dll
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\System.Net.Http.Formatting.dll
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\System.Web.Helpers.dll
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\System.Web.Http.dll
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\System.Web.Http.Owin.dll
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\System.Web.Http.WebHost.dll
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\System.Web.Mvc.dll
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\System.Web.Optimization.dll
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\System.Web.Razor.dll
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\System.Web.WebPages.Deployment.dll
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\System.Web.WebPages.dll
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\System.Web.WebPages.Razor.dll
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\WebGrease.dll
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\Repository.pdb
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\Service.pdb
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\Newtonsoft.Json.xml
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\System.Net.Http.Formatting.xml
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\System.Web.Helpers.xml
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\System.Web.Http.xml
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\System.Web.Http.WebHost.xml
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\System.Web.Mvc.xml
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\System.Web.Optimization.xml
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\System.Web.Razor.xml
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\System.Web.WebPages.xml
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\System.Web.WebPages.Deployment.xml
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\System.Web.WebPages.Razor.xml
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\Antlr3.Runtime.pdb
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\EntityFramework.xml
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\EntityFramework.SqlServer.xml
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\Microsoft.Owin.xml
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\Microsoft.Owin.Security.xml
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\Microsoft.Owin.Security.Google.xml
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\System.Web.Http.Owin.xml
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\Microsoft.ApplicationInsights.xml
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\Microsoft.AI.WindowsServer.xml
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\bin\Microsoft.AI.Web.xml
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\obj\Debug\WebApi1.csprojResolveAssemblyReference.cache
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\obj\Debug\WebApi1.dll
+c:\users\ankitadhabalia\documents\visual studio 2017\Projects\ProjectApi\WebApi1\obj\Debug\WebApi1.pdb
+c:\Users\ankitadhabalia\Documents\Visual Studio 2017\Projects\ProjectApi\WebApi1\bin\Entity.dll
+c:\Users\ankitadhabalia\Documents\Visual Studio 2017\Projects\ProjectApi\WebApi1\bin\Entity.pdb
+c:\Users\ankitadhabalia\Documents\Visual Studio 2017\Projects\ProjectApi\WebApi1\bin\Entity.dll.config
+c:\Users\ankitadhabalia\Documents\Visual Studio 2017\Projects\ProjectApi\WebApi1\bin\Repository.dll.config
+c:\Users\ankitadhabalia\Documents\Visual Studio 2017\Projects\ProjectApi\WebApi1\bin\Service.dll.config
+c:\Users\ankitadhabalia\Documents\Visual Studio 2017\Projects\ProjectApi\WebApi1\bin\Autofac.dll
+c:\Users\ankitadhabalia\Documents\Visual Studio 2017\Projects\ProjectApi\WebApi1\bin\Autofac.Integration.WebApi.dll
+c:\Users\ankitadhabalia\Documents\Visual Studio 2017\Projects\ProjectApi\WebApi1\bin\NLog.dll
+c:\Users\ankitadhabalia\Documents\Visual Studio 2017\Projects\ProjectApi\WebApi1\bin\Purplelight.Framework.Autofac.Integration.WebApi.dll
+c:\Users\ankitadhabalia\Documents\Visual Studio 2017\Projects\ProjectApi\WebApi1\bin\System.Linq.Dynamic.dll
+c:\Users\ankitadhabalia\Documents\Visual Studio 2017\Projects\ProjectApi\WebApi1\bin\Autofac.xml
+c:\Users\ankitadhabalia\Documents\Visual Studio 2017\Projects\ProjectApi\WebApi1\bin\Autofac.Integration.WebApi.xml
+c:\Users\ankitadhabalia\Documents\Visual Studio 2017\Projects\ProjectApi\WebApi1\bin\NLog.xml
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\ApplicationInsights.config
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\roslyn\csc.exe
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\roslyn\csc.exe.config
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\roslyn\csc.rsp
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\roslyn\csi.exe
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\roslyn\csi.rsp
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\roslyn\System.AppContext.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\roslyn\System.Collections.Immutable.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\roslyn\System.IO.FileSystem.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\roslyn\System.Reflection.Metadata.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\roslyn\vbc.exe
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\roslyn\vbc.exe.config
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\roslyn\vbc.rsp
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\roslyn\VBCSCompiler.exe
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\roslyn\VBCSCompiler.exe.config
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\WebApi1.dll.config
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\WebApi1.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\WebApi1.pdb
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\Antlr3.Runtime.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\Autofac.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\Autofac.Integration.WebApi.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\Entity.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\EntityFramework.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\EntityFramework.SqlServer.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\Microsoft.AI.Agent.Intercept.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\Microsoft.AI.DependencyCollector.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\Microsoft.AI.Web.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\Microsoft.AI.WindowsServer.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\Microsoft.ApplicationInsights.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\Microsoft.AspNet.Identity.Core.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\Microsoft.Owin.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\Microsoft.Owin.Security.Cookies.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\Microsoft.Owin.Security.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\Microsoft.Owin.Security.Facebook.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\Microsoft.Owin.Security.Google.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\Microsoft.Owin.Security.OAuth.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\Microsoft.Owin.Security.Twitter.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\Microsoft.Web.Infrastructure.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\Newtonsoft.Json.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\NLog.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\Owin.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\Purplelight.Framework.Autofac.Integration.WebApi.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\Repository.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\Service.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\System.Linq.Dynamic.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\System.Net.Http.Formatting.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\System.Web.Cors.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\System.Web.Helpers.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\System.Web.Http.Cors.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\System.Web.Http.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\System.Web.Http.Owin.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\System.Web.Http.WebHost.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\System.Web.Mvc.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\System.Web.Optimization.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\System.Web.Razor.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\System.Web.WebPages.Deployment.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\System.Web.WebPages.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\System.Web.WebPages.Razor.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\WebGrease.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\Entity.pdb
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\Entity.dll.config
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\Repository.pdb
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\Repository.dll.config
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\Service.pdb
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\Service.dll.config
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\Autofac.xml
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\Autofac.Integration.WebApi.xml
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\EntityFramework.xml
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\EntityFramework.SqlServer.xml
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\Newtonsoft.Json.xml
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\NLog.xml
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\System.Net.Http.Formatting.xml
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\System.Web.Http.xml
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\System.Web.Http.Cors.xml
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\System.Web.Helpers.xml
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\System.Web.Http.WebHost.xml
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\System.Web.Mvc.xml
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\System.Web.Optimization.xml
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\System.Web.Razor.xml
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\System.Web.WebPages.xml
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\System.Web.WebPages.Deployment.xml
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\System.Web.WebPages.Razor.xml
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\Antlr3.Runtime.pdb
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\Microsoft.AspNet.Identity.Core.xml
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\Microsoft.Owin.xml
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\Microsoft.Owin.Security.xml
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\Microsoft.Owin.Security.Facebook.xml
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\Microsoft.Owin.Security.Cookies.xml
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\Microsoft.Owin.Security.OAuth.xml
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\Microsoft.Owin.Security.Google.xml
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\Microsoft.Owin.Security.Twitter.xml
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\System.Web.Http.Owin.xml
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\Microsoft.ApplicationInsights.xml
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\Microsoft.AI.DependencyCollector.xml
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\Microsoft.AI.WindowsServer.xml
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\Microsoft.AI.Web.xml
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\obj\Debug\WebApi1.csprojResolveAssemblyReference.cache
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\obj\Debug\WebApi1.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\obj\Debug\WebApi1.pdb
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\obj\Debug\WebApi1.Migrations.home.resources
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\obj\Debug\WebApi1.csproj.GenerateResource.Cache
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\Microsoft.Owin.Hosting.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\Microsoft.Owin.Testing.dll
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\Microsoft.Owin.Hosting.xml
+E:\DayUsers\Ankita D\ReactJS\React-Redux with dependency injection\ProjectApi\WebApi1\bin\Microsoft.Owin.Testing.xml
